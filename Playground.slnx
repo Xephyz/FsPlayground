@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CsConsole/CsConsole.csproj" />
+  <Project Path="FsLib/FsLib.fsproj" />
+</Solution>
