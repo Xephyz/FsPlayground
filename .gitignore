@@ -264,3 +264,6 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,fsharp,csharp,macos
+
+# Custom
+!moq.4.20.70.nupkg
