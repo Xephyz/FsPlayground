@@ -1,10 +1,9 @@
-﻿namespace FsLib
+﻿module FsLib.Say
 
-module Say =
-    let hello name =
-        printfn "Hello %s" name
+let hello name =
+    printfn "Hello %s" name
 
-    let useOptional opt =
-        let result = Option.map string opt
-        printfn $"Result: %A{result}"
-        result
+let useOptional opt =
+    let result = Option.map string opt
+    printfn $"Result: %A{result}"
+    result
