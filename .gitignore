@@ -267,3 +267,5 @@ Temporary Items
 
 # Custom
 !moq.4.20.70.nupkg
+*/*.pem
+*/.env
